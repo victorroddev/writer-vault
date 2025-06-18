@@ -1,5 +1,6 @@
 {
   "main": {
+<<<<<<< HEAD
     "id": "56dc70c464e1fbdc",
     "type": "split",
     "children": [
@@ -19,6 +20,23 @@
               },
               "icon": "lucide-file",
               "title": "Dormir (Sleep)"
+=======
+    "id": "e4a307e425fec36d",
+    "type": "split",
+    "children": [
+      {
+        "id": "8b47dca6d073c461",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0694e2783dee4be6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+>>>>>>> bab3fd9df3bacc82e6097862d80651bb8088e9b4
             }
           }
         ]
@@ -27,6 +45,7 @@
     "direction": "vertical"
   },
   "left": {
+<<<<<<< HEAD
     "id": "dc8004a9b4f54d66",
     "type": "split",
     "children": [
@@ -36,6 +55,17 @@
         "children": [
           {
             "id": "47fc543a2c2e177b",
+=======
+    "id": "76339fd9b23e3583",
+    "type": "split",
+    "children": [
+      {
+        "id": "78e238ec853f5658",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "290077b2d46c5d47",
+>>>>>>> bab3fd9df3bacc82e6097862d80651bb8088e9b4
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +78,11 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "21c84f61c533c65e",
+=======
+            "id": "8c9fee6ebe826e3c",
+>>>>>>> bab3fd9df3bacc82e6097862d80651bb8088e9b4
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +99,11 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "92d20442c6e8f2d0",
+=======
+            "id": "5265a3b7b40cc005",
+>>>>>>> bab3fd9df3bacc82e6097862d80651bb8088e9b4
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,6 +119,7 @@
     "width": 300
   },
   "right": {
+<<<<<<< HEAD
     "id": "6f44d9a09791c35f",
     "type": "split",
     "children": [
@@ -90,11 +129,26 @@
         "children": [
           {
             "id": "4ba6ad7c9003e37e",
+=======
+    "id": "857f83ab0f965fe6",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce6bc46343fba85f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc22eed42975d272",
+>>>>>>> bab3fd9df3bacc82e6097862d80651bb8088e9b4
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Dormir (Sleep).md",
+=======
+                "file": "Others/Sobre los bajones.md",
+>>>>>>> bab3fd9df3bacc82e6097862d80651bb8088e9b4
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +158,45 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
+<<<<<<< HEAD
               "title": "Backlinks for Dormir (Sleep)"
             }
           },
           {
             "id": "2851af6b5b1dabf3",
+=======
+              "title": "Backlinks for Sobre los bajones"
+            }
+          },
+          {
+            "id": "0d9350209e0f771b",
+>>>>>>> bab3fd9df3bacc82e6097862d80651bb8088e9b4
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "Dormir (Sleep).md",
+=======
+                "file": "Others/Sobre los bajones.md",
+>>>>>>> bab3fd9df3bacc82e6097862d80651bb8088e9b4
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
+<<<<<<< HEAD
               "title": "Outgoing links from Dormir (Sleep)"
             }
           },
           {
             "id": "a6ab28cad18fcda2",
+=======
+              "title": "Outgoing links from Sobre los bajones"
+            }
+          },
+          {
+            "id": "d3f3e81e548d0d86",
+>>>>>>> bab3fd9df3bacc82e6097862d80651bb8088e9b4
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,18 +211,30 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "5707dd581824147d",
+=======
+            "id": "4527b8fdc9d33289",
+>>>>>>> bab3fd9df3bacc82e6097862d80651bb8088e9b4
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "Dormir (Sleep).md",
+=======
+                "file": "Others/Sobre los bajones.md",
+>>>>>>> bab3fd9df3bacc82e6097862d80651bb8088e9b4
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
+<<<<<<< HEAD
               "title": "Outline of Dormir (Sleep)"
+=======
+              "title": "Outline of Sobre los bajones"
+>>>>>>> bab3fd9df3bacc82e6097862d80651bb8088e9b4
             }
           }
         ]
@@ -168,8 +254,14 @@
       "command-palette:Open command palette": false
     }
   },
+<<<<<<< HEAD
   "active": "4beaa2904493afbc",
   "lastOpenFiles": [
     "Sobre los bajones.md"
+=======
+  "active": "290077b2d46c5d47",
+  "lastOpenFiles": [
+    "reading-resumes/Dormir (Sleep).md"
+>>>>>>> bab3fd9df3bacc82e6097862d80651bb8088e9b4
   ]
 }
