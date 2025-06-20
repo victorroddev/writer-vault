@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8b47dca6d073c461",
+        "id": "51fe0cac09cf962b",
         "type": "tabs",
         "children": [
           {
-            "id": "0694e2783dee4be6",
+            "id": "f9f29636e3fad206",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "857f83ab0f965fe6",
@@ -169,9 +168,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0694e2783dee4be6",
+  "active": "f9f29636e3fad206",
   "lastOpenFiles": [
-    "Others/Sobre los bajones.md",
-    "reading-resumes/Dormir (Sleep).md"
+    "reading-resumes/Dormir (Sleep).md",
+    "Pasted image 20250619182713.png",
+    "Others/Sobre los bajones.md"
   ]
 }
